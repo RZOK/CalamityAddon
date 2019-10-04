@@ -3,7 +3,7 @@
 An addon for the Calamity Mod for Terraria adding utility items.
 (Currently) only adds an item to summon the Devourer of Gods' second immediately.
 
-###Credits
+### Credits
 
 RoverdriveX (Basically everything else)
 RandomZachOfKindness (Main Coder)
