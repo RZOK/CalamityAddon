@@ -6,5 +6,7 @@ An addon for the Calamity Mod for Terraria adding utility items.
 ### Credits
 
 RoverdriveX (Basically everything else)
+
 RandomZachOfKindness (Main Coder)
+
 Diakronus ([Now removed] Revengance Disabler sprite)
