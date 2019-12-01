@@ -1,7 +1,7 @@
 # CalamityAddon
 
 An addon for the Calamity Mod for Terraria adding utility items.
-(Currently) only adds an item to summon the Devourer of Gods' second immediately.
+(Currently) only adds an item to summon the Devourer of Gods' second immediately and an option to disable the Crystyl Crusher's right click effect.
 
 ### Credits
 
